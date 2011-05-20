@@ -1,0 +1,2 @@
+# LEI Nº. 3.623, DE 20 DE MAIO DE 2011 Dispõe sobre a obrigação dos poderes públicos municipais e seus organismos da Administração Direta e Indireta de inserir nos locais que menciona a seguinte frase: "o uso de drogas prejudica a saúde e destrói a família".
+O POVO DO MUNICÍPIO DE CORONEL FABRICIANO, por seus representantes na Câmara Municipal, APROVA, e eu, Prefeito Municipal, SANCIONO a seguinte Lei:
