@@ -1,0 +1,1 @@
+# LEI Nº. 3.694, DE 21 DE DEZEMBRO DE 2011 "Autoriza o Poder Executivo Municipal a incluir no objeto dos contratos de instalação e manutenção de radares, dispositivo LED, e dá outras providências" O POVO DO MUNICÍPIO DE CORONEL FABRICIANO, POR SEUS REPRESENTANTES NA CÂMARA MUNICIPAL, APROVA, e eu, Prefeito Municipal, SANCIONO a seguinte Lei:
