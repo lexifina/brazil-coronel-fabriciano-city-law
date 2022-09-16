@@ -1,0 +1,1 @@
+# LEI Nº 4453, DE 12 DE SETEMBRO DE 2022 "Dispõe sobre a majoração do percentual de suplementação nos termos da Lei n.º 4.406 de 13 de dezembro de 2021, Lei Orçamentária Anual e dá outras providências O povo do Município de Coronel Fabriciano, por seus representantes APROVA, e o Prefeito do Município, SANCIONA a seguinte Lei:
