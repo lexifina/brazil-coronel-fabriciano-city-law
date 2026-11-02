@@ -1,0 +1,18 @@
+{
+ "parts": {
+  "30-leis-005.json": {
+   "acts": [
+    "lei-2023-04490"
+   ],
+   "sha256": "a3eeb76867d164a58cbda761b2f5b6f93ebb9f8d6c7173b9f4b8d8247b0c1755"
+  },
+  "30-leis-006.json": {
+   "acts": [
+    "lei-2022-04453",
+    "lei-2022-04454"
+   ],
+   "sha256": "d63d25666994e3ade2cea06428106fe0807030a1c83ad239ee4a755937a95b41"
+  }
+ },
+ "schema": 1
+}
