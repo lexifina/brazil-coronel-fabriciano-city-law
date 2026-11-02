@@ -1,0 +1,9 @@
+{
+  "path": "br-mg-coronel-fabriciano",
+  "code": "BR-MG-CORONEL-FABRICIANO",
+  "name": "Coronel Fabriciano (city)",
+  "level": "municipality",
+  "parent": "br-mg",
+  "repo": "https://github.com/lexifina/brazil-coronel-fabriciano-city-law",
+  "build": "built: the law of Coronel Fabriciano from the Câmara Municipal's SAPL"
+}

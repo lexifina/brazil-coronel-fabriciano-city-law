@@ -1,0 +1,47 @@
+{
+ "country": "BR-MG-CORONEL-FABRICIANO",
+ "acts": [
+  {
+   "slug": "lei-2023-04490",
+   "short": "Lei 4490/2023",
+   "title": "Lei nº 4.490, de 17 de maio de 2023",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/3415",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 3,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2023/3415/lei_no_4.490_-_17.05.2023_-_denominacao_de_logradouro_bairro_pomar_praca_jadir_sa_azevedo_-_luciano_lugao.pdf",
+     "sha256": "86c26336126146d88fb8459d516b357264b0b2e05f9a59ce157a8f724074206a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04454",
+   "short": "Lei 4454/2022",
+   "title": "Lei nº 4.454, de 16 de setembro de 2022",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2237",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 3,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2022/2237/lei_4.454_-_revoga_lei_municipal_no_3.396_agente_sanitarios.pdf",
+     "sha256": "51e92b0530d2d458b3c6e16baac1f64f63df6174753915551189e5648aa000a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04453",
+   "short": "Lei 4453/2022",
+   "title": "Lei nº 4.453, de 16 de setembro de 2022",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2236",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 4,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2022/2236/lei_4.453_-_majoracao_percentual_de_suplementacao.pdf",
+     "sha256": "dd80e8fb5fbf7303e4b7432b7b4eb385ed75e86480ffd3e8eff6746f9ef1236e"
+    }
+   ]
+  }
+ ]
+}
