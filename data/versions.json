@@ -448,6 +448,76 @@
      "sha256": "20efe6c4d8961b5e136da8b68ea75a564e160422decf4f5a60b3b79997f73903"
     }
    ]
+  },
+  {
+   "slug": "lei-2010-03498",
+   "short": "Lei 3498/2010",
+   "title": "Lei nº 3.498, de 22 de janeiro de 2010",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2602",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 9,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2010/2602/lei_3.498_-_operaouo_crdito_bdmg.pdf",
+     "sha256": "7720069c164b03539339989a6bec44aaf3873d971a7b1550a4551af10c1d9ff1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-03463",
+   "short": "Lei 3463/2009",
+   "title": "Lei nº 3.463, de 25 de agosto de 2009",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2653",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 6,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2009/2653/lei_3.463_-_criterio_para_construcao_de_ete.pdf",
+     "sha256": "e9128f8295560e5872982312e3db36ee46f9ced9dcbe1a1d8db0f79dddbb46d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-03462",
+   "short": "Lei 3462/2009",
+   "title": "Lei nº 3.462, de 25 de agosto de 2009",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2652",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 17,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2009/2652/lei_3.462_-_cria_o_programa_uso_racional_da_igua.pdf",
+     "sha256": "50338d14a95fa9560baacc49357a4f0b16dfb19ce162c11f124af7395c585470"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-03461",
+   "short": "Lei 3461/2009",
+   "title": "Lei nº 3.461, de 25 de agosto de 2009",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2651",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 5,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2009/2651/lei_3.461-_autoriza_a_criacao_do_centro_de_atencao_a_saude_da_mulher.pdf",
+     "sha256": "dd51c3b7b0abc90b678786b090cb2f4e503ac4f40bd815f603add229322bda6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2009-03460",
+   "short": "Lei 3460/2009",
+   "title": "Lei nº 3.460, de 25 de agosto de 2009",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2650",
+   "versions": [
+    {
+     "from": "2009-08-25",
+     "units": 6,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2009/2650/lei_3.460-_isencao_de_taxa_concurso.pdf",
+     "sha256": "1bb3135c3377783b58b52829726ba1878e30c831ad9de4aa83d16bf5b78c0928"
+    }
+   ]
   }
  ]
 }
