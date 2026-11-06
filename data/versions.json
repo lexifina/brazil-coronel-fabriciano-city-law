@@ -168,6 +168,48 @@
      "sha256": "d24940f2fdca27edff321cf197a8f9cef743ca6d380368b09b9bb9c8751911f9"
     }
    ]
+  },
+  {
+   "slug": "lei-2014-03857",
+   "short": "Lei 3857/2014",
+   "title": "Lei nº 3.857, de 13 de janeiro de 2014",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/1944",
+   "versions": [
+    {
+     "from": "2014-01-13",
+     "units": 4,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2014/1944/lei_3857_2014_-_declara_de_utilidade_publica_o_instituto_educacional_principios_osvaldo_aranha..pdf",
+     "sha256": "6ca3aa848cfc9e13a41454b93530e86a2272e5f1f070b7eaed8c23833efd4125"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-03793",
+   "short": "Lei 3793/2013",
+   "title": "Lei nº 3.793, de 7 de junho de 2013",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/4300",
+   "versions": [
+    {
+     "from": "2013-06-07",
+     "units": 8,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2013/4300/lei_3793_2013_-_autoriza_o_programa_de_saude_do_homem_no_ambito_do_municipio_de_coronel_fabriciano_e_da_outras_providencias..pdf",
+     "sha256": "c9a86eba4c2dc15974e89110eb1e500d49693271f9434df4226a65574abff478"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-03792",
+   "short": "Lei 3792/2013",
+   "title": "Lei nº 3.792, de 7 de junho de 2013",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/4299",
+   "versions": [
+    {
+     "from": "2013-06-07",
+     "units": 7,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2013/4299/lei_3792_2013_-_dispoe_sobre_a_expedicao_de_certidoes_por_agentes_publicos_de_saude_do_municipio_para_a_defesa_de_direitos_e_esclarecimentos_de_situacoes_e_da_outras_providencias.pdf",
+     "sha256": "820b4bbdd698d1256f9ae81a84447ad07966ae9824191b53e121d0b37f6f2cea"
+    }
+   ]
   }
  ]
 }
