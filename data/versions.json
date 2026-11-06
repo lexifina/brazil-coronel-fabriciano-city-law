@@ -42,6 +42,34 @@
      "sha256": "dd80e8fb5fbf7303e4b7432b7b4eb385ed75e86480ffd3e8eff6746f9ef1236e"
     }
    ]
+  },
+  {
+   "slug": "lei-2018-04211",
+   "short": "Lei 4211/2018",
+   "title": "Lei nº 4.211, de 27 de dezembro de 2018",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/4394",
+   "versions": [
+    {
+     "from": "2018-12-27",
+     "units": 4,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2018/4394/lei_municipal_4.211__promugacao_sgsa.pdf",
+     "sha256": "161a35cf58874f6099b2595f03d3898de7cf22d2f8b1de4d09aa37fc64fac10b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04184",
+   "short": "Lei 4184/2018",
+   "title": "Lei nº 4.184, de 27 de junho de 2018",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/195",
+   "versions": [
+    {
+     "from": "2018-06-27",
+     "units": 3,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2018/195/lei_4184_2018_-_altera_a_lei_no_3.396_de_11_de_fevereiro_de_2008.pdf",
+     "sha256": "2d944fdde48b17225ce72882cab02833b23527d354e874c77cef5dcfd47978e9"
+    }
+   ]
   }
  ]
 }
