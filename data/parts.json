@@ -44,6 +44,12 @@
     "lei-2014-03857"
    ],
    "sha256": "f44e4bd04b55a950604f4856b2750741d99e26a45dbbe0f6e71d9fe8492d1cba"
+  },
+  "30-leis-024.json": {
+   "acts": [
+    "lei-2012-03759"
+   ],
+   "sha256": "7829b7e512577a643fdf5afc6d5be1a6ebf2d3e95472ba021b7aafa7fd45205d"
   }
  },
  "schema": 1

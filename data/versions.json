@@ -210,6 +210,20 @@
      "sha256": "820b4bbdd698d1256f9ae81a84447ad07966ae9824191b53e121d0b37f6f2cea"
     }
    ]
+  },
+  {
+   "slug": "lei-2012-03759",
+   "short": "Lei 3759/2012",
+   "title": "Lei nº 3.759, de 27 de dezembro de 2012",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2347",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 86,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2012/2347/lei_3759_2012_-_institui_o_plano_diretor_do_municipio_de_coronel_fabriciano_e_da_outras_providencias..pdf",
+     "sha256": "0e6386b194afb87afe55cede3eba8380110af8abaa26fd8b30a067ef7c523180"
+    }
+   ]
   }
  ]
 }
