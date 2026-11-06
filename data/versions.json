@@ -308,6 +308,34 @@
      "sha256": "c5c4be504fea25a2b5af99d7aa1930fec261f47170df72c020f7ec85e7404576"
     }
    ]
+  },
+  {
+   "slug": "lei-2011-03628",
+   "short": "Lei 3628/2011",
+   "title": "Lei nº 3.628, de 17 de junho de 2011",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2412",
+   "versions": [
+    {
+     "from": "2011-06-17",
+     "units": 4,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2011/2412/lei_ordinaria_3628_2011_-_beco_antonio_marcolino_filho.pdf",
+     "sha256": "2df9d0ad17fda6ba813b006d24103a657500ef10b40bb90c314fa98f62f685c4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-03623",
+   "short": "Lei 3623/2011",
+   "title": "Lei nº 3.623, de 20 de maio de 2011",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/4281",
+   "versions": [
+    {
+     "from": "2011-05-20",
+     "units": 4,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2011/4281/lei_3.623_-_uso_de_drogas_-_obrigacao_dos_poderes_publicos_pdf.pdf",
+     "sha256": "b18d27e8ec61370b5929b7cabd35fdd576a50013b5728ac38add9eedce533590"
+    }
+   ]
   }
  ]
 }
