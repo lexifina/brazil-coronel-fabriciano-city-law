@@ -406,6 +406,48 @@
      "sha256": "5e46da9fd0d0c3438ee2426f70dbd7207aa8cf2fcc9dd3e2dd7b07f1d2415dbe"
     }
    ]
+  },
+  {
+   "slug": "lei-2010-03561",
+   "short": "Lei 3561/2010",
+   "title": "Lei nº 3.561, de 8 de setembro de 2010",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2573",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 9,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2010/2573/lei_3.561-_empresa_amiga_do_professor.pdf",
+     "sha256": "524387f595f833502350a3163e27f98646c6008b1d9fdb6ed6cc01a39e273c08"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-03551",
+   "short": "Lei 3551/2010",
+   "title": "Lei nº 3.551, de 8 de julho de 2010",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2563",
+   "versions": [
+    {
+     "from": "2010-07-08",
+     "units": 4,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2010/2563/lei_3.551-_ldo_com_emendas_pdf.pdf",
+     "sha256": "c98be884ee6ca28170b695ecd9b1690f7244275fabd36843c16c16972e48d524"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2010-03547",
+   "short": "Lei 3547/2010",
+   "title": "Lei nº 3.547, de 11 de junho de 2010",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2560",
+   "versions": [
+    {
+     "from": "2010-06-11",
+     "units": 6,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2010/2560/lei_3.547-apa_bairro_floresta_pdf_.pdf",
+     "sha256": "20efe6c4d8961b5e136da8b68ea75a564e160422decf4f5a60b3b79997f73903"
+    }
+   ]
   }
  ]
 }
