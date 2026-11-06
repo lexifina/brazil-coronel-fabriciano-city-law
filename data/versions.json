@@ -70,6 +70,20 @@
      "sha256": "2d944fdde48b17225ce72882cab02833b23527d354e874c77cef5dcfd47978e9"
     }
    ]
+  },
+  {
+   "slug": "lei-2014-03938",
+   "short": "Lei 3938/2014",
+   "title": "Lei nº 3.938, de 27 de agosto de 2014",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/4337",
+   "versions": [
+    {
+     "from": "2014-08-27",
+     "units": 51,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2014/4337/lei_3938_2014_-_dispoe_sobre_as_diretrizes_para_a_elaboracao_da_lei_orcamentaria_de_2015_e_da_outras_providencias..pdf",
+     "sha256": "8c1d8f73f80b03c9b2dbf56d000aedf5c0f92f849acbc193ab38cd715237ccf3"
+    }
+   ]
   }
  ]
 }
