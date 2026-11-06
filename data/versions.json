@@ -518,6 +518,20 @@
      "sha256": "1bb3135c3377783b58b52829726ba1878e30c831ad9de4aa83d16bf5b78c0928"
     }
    ]
+  },
+  {
+   "slug": "lei-2008-03404",
+   "short": "Lei 3404/2008",
+   "title": "Lei nº 3.404, de 21 de maio de 2008",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2683",
+   "versions": [
+    {
+     "from": "2008-05-21",
+     "units": 33,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2008/2683/lei_3.404_-_postos_de_combustivel.pdf",
+     "sha256": "d2006fcb3d37904371548d617435fefda9fbcd6388e89ef8279bcafca2dedc16"
+    }
+   ]
   }
  ]
 }
