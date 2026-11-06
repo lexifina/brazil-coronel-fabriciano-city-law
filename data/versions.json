@@ -224,6 +224,90 @@
      "sha256": "0e6386b194afb87afe55cede3eba8380110af8abaa26fd8b30a067ef7c523180"
     }
    ]
+  },
+  {
+   "slug": "lei-2012-03701",
+   "short": "Lei 3701/2012",
+   "title": "Lei nº 3.701, de 9 de março de 2012",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2286",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "units": 4,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2012/2286/lei_3.701_-_utilidade_publica_obra_de_amr_-_adriano.pdf",
+     "sha256": "7ae5a13256135184c3fa2281f6030cf93feb51d66f150b0c6afdb69430e31489"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-03700",
+   "short": "Lei 3700/2012",
+   "title": "Lei nº 3.700, de 9 de março de 2012",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2285",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "units": 4,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2012/2285/lei_3.700_-_utilidade_publica_casa_de_apoio_e_recup_desa_fio_jovem_casa_do_oleiro-adriano.pdf",
+     "sha256": "f7d2545064f9344e734559eb2b3271e921b09b62ea29dc12704bf5402eb6025b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-03699",
+   "short": "Lei 3699/2012",
+   "title": "Lei nº 3.699, de 2 de fevereiro de 2012",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2284",
+   "versions": [
+    {
+     "from": "2012-02-02",
+     "units": 7,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2012/2284/lei_3.699_-_cria_cargo_de_gerente_de_seguranca.pdf",
+     "sha256": "ee6d798d130c7943a9f6fb32cea1a6af651d2b99f512d62ef21a9ea8b09d7571"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-03697",
+   "short": "Lei 3697/2012",
+   "title": "Lei nº 3.697, de 2 de fevereiro de 2012",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2282",
+   "versions": [
+    {
+     "from": "2012-02-02",
+     "units": 8,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2012/2282/lei_3.697_-_contribuicao_apra_o_social_futebol_clube.._doc.pdf",
+     "sha256": "f1295dac1ecba6b5c8946ff8821ad922c2d5b0391512fabcab7a43c9bc5220ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2012-03696",
+   "short": "Lei 3696/2012",
+   "title": "Lei nº 3.696, de 2 de fevereiro de 2012",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2281",
+   "versions": [
+    {
+     "from": "2012-02-02",
+     "units": 10,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2012/2281/lei_3.696_-_pmat_-_bdmg.pdf",
+     "sha256": "777f5cd7cc588e16c256d9edc37e39e67be3b1d27f24926fe5808a5c856e44fd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2011-03694",
+   "short": "Lei 3694/2011",
+   "title": "Lei nº 3.694, de 21 de dezembro de 2011",
+   "url": "https://sapl.coronelfabriciano.mg.leg.br/norma/2414",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 5,
+     "source_url": "https://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/normajuridica/2011/2414/lei_3694_2011.pdf",
+     "sha256": "c5c4be504fea25a2b5af99d7aa1930fec261f47170df72c020f7ec85e7404576"
+    }
+   ]
   }
  ]
 }
